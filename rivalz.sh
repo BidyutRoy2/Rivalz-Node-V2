@@ -34,3 +34,25 @@ npm i -g rivalz-node-cli
 
 print_command "Running Rivalz Node..."
 rivalz run
+
+echo -e '\e[40m\e[92m'
+
+echo -e ' ##   ##   ######  #####    #####    #######  ##    ## '
+echo -e ' ##   ##     ##    ##  ##   ##  ##   ##       ###   ## '
+echo -e ' ##   ##     ##    ##   ##  ##   ##  ##       ## #  ## '
+echo -e ' #######     ##    ##   ##  ##   ##  #####    ##  # ## '
+echo -e ' ##   ##     ##    ##   ##  ##   ##  ##       ##   ### '
+echo -e ' ##   ##     ##    ##  ##   ##  ##   ##       ##    ## '
+echo -e ' ##   ##   ######  #####    #####    #######  ##    ## '
+                                                      
+echo -e '        #####     #######  ##     ## '
+echo -e '       ##   ##    ##       ###   ### ' 
+echo -e '       ##         ##       ## # # ## '  
+echo -e '       ##  #####  #####    ##  #  ## '  
+echo -e '       ##   ## #  ##       ##     ## '  
+echo -e '       ##   ## #  ##       ##     ## '  
+echo -e '        #####     #######  ##     ## '
+
+echo -e ' Wellcome To Hidden Gem Node Running Installation Guide '
+
+echo -e '\e[0m'
