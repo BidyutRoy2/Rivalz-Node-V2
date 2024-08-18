@@ -1,5 +1,9 @@
 <h2 align=center> Rivalz Node v2 </h2>
 
+<p align="center">
+<img src='image.jpg' width='700'>
+</p>
+
 ---
 ## System Specifications
 
@@ -10,17 +14,19 @@
 | **Storage**      | 50GB SSD        |
 | **Internet Speed**| 1Mbps           |
 ---
-## Installation
 
-1/ Register Website [HERE](https://rivalz.ai?r=0xAiExp0)
+# Installation & Registration Guide
+
+## 1/ Register Website [HERE](https://rivalz.ai?r=0xAiExp0)
 
 - Connect Wallet & Twitter
 - Add Testnet RPC & Claim Faucet
 - Mint Fragmentz Daily
 - Run Rivalz Node V1 & V2
-- V1 Download [HERE](https://rivalz.ai/download)
+## 2/ V1 Download [HERE](https://rivalz.ai/download)
 
-## Install V2 (VPS or WSL)
+## 3/ Install V2 (VPS or WSL) Command
+
 - Install `screen` using the below commands
 ```bash
 sudo apt-get update
