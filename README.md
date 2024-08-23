@@ -34,6 +34,12 @@ sudo apt-get update
 ```bash
 sudo apt-get install screen
 ```
+
+- Install Node & NVM By Command
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
+```
+
 - Create a screen session (Rivalz) using the below command
 ```bash
 screen -S Rivalz
