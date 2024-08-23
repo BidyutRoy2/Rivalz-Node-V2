@@ -56,7 +56,7 @@ wget https://raw.githubusercontent.com/BidyutRoy2/Rivalz-Node-V2/main/rivalz.sh 
 
 ### Restart Node If WSL/VPS ShutDown (Open New Terminal)
 ```
-rivalz Run
+rivalz run
 ``` 
 
 ### Update the rClient CLI configuration
