@@ -35,11 +35,6 @@ sudo apt-get update
 sudo apt-get install screen
 ```
 
-- Install Node & NVM By Command
-```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
-```
-
 - Create a screen session (Rivalz) using the below command
 ```bash
 screen -S Rivalz
@@ -52,6 +47,34 @@ wget https://raw.githubusercontent.com/BidyutRoy2/Rivalz-Node-V2/main/rivalz.sh 
 - Allocate 95% stoarge to the node cli
 - Detach from the screen session using `Ctrl` + `A` + `D`
 - Done ✅, now you can close your terminal
+
+## List of Commands run - Run the Rivalz rClient CLI
+
+### Restart Node
+```
+Rivalz Run
+``` 
+
+### Update the rClient CLI configuration
+```
+Rivalz change-hardware-config
+```
+
+### Change the wallet address of the rClient CLI
+```
+Rivalz change-wallet
+```
+
+### Update the rClient CLI version
+```
+Rivalz update-version
+```
+
+### Show the rClient CLI version
+```
+Rivalz info
+```
+
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
 
