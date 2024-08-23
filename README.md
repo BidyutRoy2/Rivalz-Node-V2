@@ -48,9 +48,9 @@ wget https://raw.githubusercontent.com/BidyutRoy2/Rivalz-Node-V2/main/rivalz.sh 
 - Detach from the screen session using `Ctrl` + `A` + `D`
 - Done ✅, now you can close your terminal
 
-## List of Commands run - Run the Rivalz rClient CLI
+## List of Commands Rivalz rClient CLI
 
-### Restart Node
+### Restart Node If WSL/VPS ShutDown (Open New Terminal)
 ```
 Rivalz Run
 ``` 
